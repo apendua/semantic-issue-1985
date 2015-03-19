@@ -1,0 +1,22 @@
+.ui.stats.segment {
+  position : fixed;
+  top      : 0;
+  right    : 0;
+  z-index  : 1;
+}
+
+.pusher {
+  padding-top: 12rem;
+}
+
+.ui.launch.attached.fixed.button {
+  position : fixed;
+  top      : 0;
+  left     : 0;
+}
+
+/*
+body.pushable {
+  overflow-x: initial;
+}
+*/
